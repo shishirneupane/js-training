@@ -1,0 +1,9 @@
+#root-container {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+
+#image-container {
+  display: flex;
+}
